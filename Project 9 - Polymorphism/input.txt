@@ -1,0 +1,12 @@
+Hourly
+Parker
+Padgett
+12.50
+35
+2
+Salary
+Haylee
+Scott
+15
+50
+1
